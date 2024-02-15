@@ -43,8 +43,6 @@ This exercise presents an opportunity to apply the spatial analysis approach to 
 
     <img width="935" alt="Screenshot 2024-02-15 104929" src="https://github.com/marianahiroki/ESRI-GPSA-S4-Cougar-Habitat-Best-Location/assets/110165879/d1e02fd8-898c-4b92-b713-ab583895af24">
 
-    <img width="936" alt="Screenshot 2024-02-15 112354" src="https://github.com/marianahiroki/ESRI-GPSA-S4-Cougar-Habitat-Best-Location/assets/110165879/3ca950f4-fc84-47e3-acb6-a8f1573380cd">
-
 
   - Following the creation of Model 1, the focus shifts to developing Model 2, reflecting criteria outlined by the DFW for potential cougar habitat.
   - Similar to Model 1, Model 2 entails filtering data to identify suitable areas, with adjustments made to criteria as specified by the DFW.
