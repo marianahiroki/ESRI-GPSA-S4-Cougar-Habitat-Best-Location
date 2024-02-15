@@ -62,7 +62,6 @@ This exercise presents an opportunity to apply the spatial analysis approach to 
 
     <img width="935" alt="Screenshot 2024-02-15 110356" src="https://github.com/marianahiroki/ESRI-GPSA-S4-Cougar-Habitat-Best-Location/assets/110165879/d933507f-f639-4f23-bb50-588ffeaecf93">
 
-    <img width="935" alt="Screenshot 2024-02-15 112704" src="https://github.com/marianahiroki/ESRI-GPSA-S4-Cougar-Habitat-Best-Location/assets/110165879/abe7b921-aabc-425a-9667-07fbd8903965">
 
 
 
@@ -86,5 +85,6 @@ This exercise presents an opportunity to apply the spatial analysis approach to 
 - Sharing the results within a story created using ArcGIS StoryMaps—a customizable app builder.
 - [ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/f061cf64461a4b35b64567e243e88c4a) can create a story that includes both maps, which you will then share with project stakeholders.
 - A swipe block is an interactive experience that enables readers to directly compare two maps or images simultaneously by using a draggable handle.
+  
   <img width="623" alt="image" src="https://github.com/marianahiroki/ESRI-GPSA-S4-Cougar-Habitat-Best-Location/assets/110165879/c163a2f1-b2d1-47a7-ad6d-e18115d2ff14">
 
