@@ -81,7 +81,9 @@ This exercise presents an opportunity to apply the spatial analysis approach to 
 
 **Exercise 2: Finding the Best Locations and Paths: Sharing Results**
 - Sharing the results within a story created using ArcGIS StoryMaps—a customizable app builder.
-- [ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/f061cf64461a4b35b64567e243e88c4a) can create a story that includes both maps, which you will then share with project stakeholders.
+- ArcGIS StoryMaps can create a story that includes both maps, which you will then share with project stakeholders.
+  <img width="935" alt="image" src="https://github.com/marianahiroki/ESRI-GPSA-S4-Cougar-Habitat-Best-Location/assets/110165879/1aacb6ee-b295-4c39-a172-6e32aaad117f">
+
 - A swipe block is an interactive experience that enables readers to directly compare two maps or images simultaneously by using a draggable handle.
   
   <img width="623" alt="image" src="https://github.com/marianahiroki/ESRI-GPSA-S4-Cougar-Habitat-Best-Location/assets/110165879/c163a2f1-b2d1-47a7-ad6d-e18115d2ff14">
